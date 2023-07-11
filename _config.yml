@@ -39,18 +39,3 @@ extra_css:
   - 'https://use.fontawesome.com/releases/v5.7.0/css/all.css'
   - 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css'
 
-  plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
-  
