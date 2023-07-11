@@ -1,0 +1,12 @@
+site_name: Google Docs user guide
+
+nav:
+  - About Google Docs: index.md
+  - Create a document: Create.md
+  - Download a file: Download.md
+  - Print a document: Print.md
+  - Manage access to a document: Manage.md
+  - Manage page settings: Manages.md
+  - Format text: Format.md
+  - Add objects: Add.md
+  - Manage add-ons: Manageadd.md
